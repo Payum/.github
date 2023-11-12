@@ -27,7 +27,7 @@ We provide integration for a multitude of payment gateways, including but not li
 
 ## 🚦 Getting Started
 
-To start using Payum, you need to have a minimum knowledge of PHP. Visit our [Get Started Guide](https://yourlink.com/get-started-guide) to get up and running.
+To start using Payum, you need to have a minimum knowledge of PHP. Visit our [Get Started Guide](https://payum.gitbook.io/payum/get-it-started) to get up and running.
 
 ---
 

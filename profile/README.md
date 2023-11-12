@@ -21,7 +21,7 @@ We provide integration for a multitude of payment gateways, including but not li
 - 💎 Authorize.net
 - 💲 Braintree
 - 📦 Klarna
-- ⭐ And many more...
+- ⭐ [And many more...](https://payum.gitbook.io/payum/supported-gateways)
 
 ---
 
